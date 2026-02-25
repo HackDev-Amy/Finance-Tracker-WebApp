@@ -16,6 +16,9 @@ A full-stack personal finance web application built with **Django REST Framework
 | Notifications | react-hot-toast |
 
 ---
+<img width="1831" height="799" alt="Screenshot 2026-02-25 120956" src="https://github.com/user-attachments/assets/f1d39756-44e0-4b0b-868c-69cce1c25c52" />
+<img width="1721" height="841" alt="Screenshot 2026-02-25 121016" src="https://github.com/user-attachments/assets/91635202-bd02-48f4-bbf9-6a0b953bf805" />
+<img width="1571" height="845" alt="Screenshot 2026-02-25 121028" src="https://github.com/user-attachments/assets/e31b50a5-7367-4ad7-bb97-8549216850a4" />
 
 ## 📁 Project Structure
 
